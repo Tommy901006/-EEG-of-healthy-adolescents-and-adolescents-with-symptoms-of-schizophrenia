@@ -21,3 +21,5 @@ The topographical positions of channel numbers are shown in the table and pictur
 14 - T6
 15 - O1
 16 - O2
+
+http://brain.bio.msu.ru/eeg_schizophrenia.htm
