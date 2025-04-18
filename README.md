@@ -23,3 +23,5 @@ The topographical positions of channel numbers are shown in the table and pictur
 16 - O2
 
 http://brain.bio.msu.ru/eeg_schizophrenia.htm
+
+Borisov, S.V., Kaplan, A.Y., Gorbachevskaya, N.L. et al. Analysis of EEG Structural Synchrony in Adolescents with Schizophrenic Disorders. Hum Physiol 31, 255–261 (2005). https://doi.org/10.1007/s10747-005-0042-z
